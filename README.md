@@ -1,7 +1,7 @@
 # Data-Science-Systems-Project
 # Team Members Details :-
-    1. Dipesh Mishra (20bcs043) 
-    2. Mahendra Singh Puniya (20bcs082) 
+    1. Mahendra Singh Puniya (20bcs082)
+    2. Dipesh Mishra (20bcs043) 
     3. Ravikant (20bcs110) 
     4. Rishabh Gautam (20bcs112)
 
